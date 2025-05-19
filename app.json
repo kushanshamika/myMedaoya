@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "myMedaoya",
-    "slug": "myMedaoya",
+    "slug": "mymedaoya",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "6b39b2db-e3a6-4df7-be7e-a18a9d24d947"
+      }
+    },
+    "owner": "kushanshamika"
   }
 }
